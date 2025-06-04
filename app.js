@@ -1,4 +1,4 @@
-// start from here
+// start from here yoyoyoyoyyo
 let userScore = 0;
 let compScore = 0;
 
